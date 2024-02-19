@@ -21,3 +21,5 @@ https://1drv.ms/u/s!AiZu-urEabOdgYIlFcCGIxckz7l6Mg?e=uwNFy0
 
 
 The tables Product TransactionHistory, Sales.CurrencyRate, Sales.SalesOrderDetail were imported into Power BI for visualization
+  - In PowerBi Server, go to Get data and select from SQL Server
+    
