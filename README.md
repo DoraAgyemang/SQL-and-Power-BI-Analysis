@@ -50,9 +50,12 @@ a)
   ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/39b0da0b-75c1-4e07-b890-bd7f0cac7b9f)<p>
   From the above visual it can be seen that the month of March had the higest Actual Cost and June with the lowest Actual cost
 -	A table showing Category of Average Quantity into 3 groups namely High Quantity, Mid Quantity, and Low Quantity.
-  
--	A visual showing Total Actual Cost for each Transaction Type. 
--	Create a Dashboard for the above analysis
+  ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/4b8faeae-b3ec-482a-accf-c788f336a87d)
+
+-	Total Actual Cost for each Transaction Type.
+  ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/364b9bc8-540d-4862-96f3-c8b38fc2c8e7)
+
+ A Dashboard was created for the above analysis
 
 b)
 - A visual showing the Sales Currency Average rate by Year.
@@ -65,7 +68,7 @@ b)
 
   In this Analysis we will create visuals  to answer the exploratory Data Anylysis question a).
 ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/67b1072e-fb2b-458d-80da-eb110d9df656)<p>
-  In the above visuals, you could see the aAverage quantity by month was grouped into AverageQuantity group to show the trends in the monthly average. Anew measure was used to group 
+  In the above visuals, you could see the Average quantity by month was grouped into AverageQuantity group to show the trends in the monthly average. Anew measure was used to group 
   th Average into Average Quantity group Using the below querry
   ```
 AverageQuantityGroup = IF([Average Quantity]<= 30, "Low Quantity",
