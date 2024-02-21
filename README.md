@@ -60,8 +60,7 @@ b)
   ### Data Analysis
 
   In this Analysis we will create visuals  to answer the exploratory Data Anylysis question a).
-
-  ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/67b1072e-fb2b-458d-80da-eb110d9df656)<p>
+![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/67b1072e-fb2b-458d-80da-eb110d9df656)<p>
   In the above visuals, you could see the aAverage quantity by month was grouped into AverageQuantity group to show the trends in the monthly average. Anew measure was used to group 
   th Average into Average Quantity group Using the below querry
   ```
