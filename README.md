@@ -16,7 +16,7 @@ https://1drv.ms/u/s!AiZu-urEabOdgYIlFcCGIxckz7l6Mg?e=uwNFy0
 ### Importaing Data
 
 - AdventureWorks2014 was downloaded from the link above and imported into the SQL Database server.
-  The tables Product TransactionHistory, Sales.CurrencyRate, Sales.SalesOrderDetail were imported into Power BI for visualization
+  The tables Product TransactionHistory and Sales.CurrencyRate,  were imported into Power BI for visualization
   - In PowerBi Server, go to Home, Get data and select from SQL Server
 
     ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/6e3b393a-119a-497a-b2d6-2f84511ca8c0)
@@ -35,3 +35,6 @@ https://1drv.ms/u/s!AiZu-urEabOdgYIlFcCGIxckz7l6Mg?e=uwNFy0
 
   ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/13afa2d6-784c-49ea-8963-7351a7a66d88)
 
+- Select the tables ProductTransanctionHistory and Sale.CurrencyRate and click on Load.
+
+![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/f25d0297-66b6-4da7-9474-9ac4952dbf35)
