@@ -45,11 +45,17 @@ https://1drv.ms/u/s!AiZu-urEabOdgYIlFcCGIxckz7l6Mg?e=uwNFy0
 
 ### Exploratory Data Analysis
 
-Exploratory data analaysis (EDA) entails delving into our tables and creating visuals to analyse the data to answer questions such as what is the:
+Exploratory data analaysis (EDA) entails delving into our tables and creating visuals to analyse the data to answer questions such as what is the:<p>
+
 a)
-- Actual Cost for each Transaction Type on a month-to-month?
+- Actual Cost for each Transaction Type on a month-to-month?<p>
  ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/8cc0c842-a63d-4fa2-bb2d-474ee3bf4194)<p>
-  From the above visual it can be seen that the month of March had the higest Actual Cost and June with the lowest Actual cost
+From the above visual it can be seen that the month of March had the higest Actual Cost and June with the lowest Actual cost.<p>
+ In the AdventureWorks2014 database, the transaction types P, S, and W are related to the SalesOrderHeader table and represent the following:
+
+- **P**: Purchase Order
+- **S**: Sales Order
+- **W**: Work Order
 
 - Average Quantity for every month? Group into 3 groups namely High Quantity, Mid Quantity, and Low Quantity.
  ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/6d92a76e-30d2-45d8-8f37-8c97950f9f4c)<p>
@@ -90,11 +96,6 @@ Most of the monthly currency rates ere below the average, £100,723. from mid-ye
   
  ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/3b1b9777-9d2e-4687-8c7f-9a55d2f2a7c2)<p>
 
-In the AdventureWorks2014 database, the transaction types P, S, and W are related to the SalesOrderHeader table and represent the following:
-
-- **P**: Purchase Order
-- **S**: Sales Order
-- **W**: Work Order
 
 
 
