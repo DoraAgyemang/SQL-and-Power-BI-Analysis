@@ -61,7 +61,7 @@ IF([Average Quantity]<= 44, "Mid Quantity", "High Quantity"))
   ```
 -	Total Actual Cost for each Transaction Type.
   
-![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/ba72ccc6-285e-49ab-8afe-2016ba11e36b)<p>
+![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/ccb98941-12d5-4576-a47c-77b775f693c2)<p>
 
  A Dashboard was created for the above analysis
  
@@ -77,11 +77,12 @@ From the Analysis, It is observed the year 2013 recorded the highest Sales Rate 
 - Sales Currency Average rate by Quarterly.
  
 ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/d1a22433-2de0-41ab-a0d5-1b2f3e88e09c)<p>
+
 The 1st Quarter is observed to have had the highest currency rate with £290,000. The lowest sales currency rate, £244,000, was recorded in the 3rd Quarter. Furthermore, the currency rate for the last two quarters were below the average, £279,363.
  
- - Sales Currency Avarage rate by Month.
-   
+- Sales Currency Avarage rate by Month.
 ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/42727f58-15bb-4cd3-990a-e9139b5fb32b)<p>
+
 Most of the monthly currency rates ere below the average, £100,723. from mid-year. However, the rates in the first 5 months were higher than the average. With £102,950, May recorded the highest rate whilst June was observed to have had the lowest, £75,691.
 
 - A dasboard for the above Visuals
