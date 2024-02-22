@@ -52,7 +52,7 @@ a)
   From the above visual it can be seen that the month of March had the higest Actual Cost and June with the lowest Actual cost
 
 - Average Quantity for every month? Group into 3 groups namely High Quantity, Mid Quantity, and Low Quantity.
-  ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/794b9434-e19c-402c-9f1d-eeddb4a260d3)<p>
+ ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/6d92a76e-30d2-45d8-8f37-8c97950f9f4c)<p>
 In the above visuals, you could see the Average quantity by month was grouped into AverageQuantity group to show the trends in the monthly average. A new measure was used to group  the Average into Average Quantity group Using the below querry.
  ```
 AverageQuantityGroup = IF([Average Quantity]<= 30, "Low Quantity", IF([Average Quantity]<= 44, "Mid Quantity", "High Quantity"))
@@ -60,7 +60,7 @@ AverageQuantityGroup = IF([Average Quantity]<= 30, "Low Quantity", IF([Average Q
 - Total Actual Cost for each Transaction Type.<p>
   
 
-![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/ccb98941-12d5-4576-a47c-77b775f693c2)<p>
+![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/99f6306f-dac6-4502-b65f-a0ed907209c6)<p>
 
  A Dashboard was created for the above analysis<p>
  
