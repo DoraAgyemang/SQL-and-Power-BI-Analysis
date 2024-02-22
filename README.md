@@ -69,15 +69,21 @@ IF([Average Quantity]<= 44, "Mid Quantity", "High Quantity"))
 
 b)
 - Sales Currency Average rate by Year.
+  
   ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/9bab41fb-ffbb-4c14-b2fe-7e51c14341b0)<p>
+From the Analysis, It is observed the year 2013 recorded the highest Sales Rate with £360,000 whereas 2011 had the lowest with £170,000
 
-- A visual showing Sales Currency Average rate by Quarterly.
+
+- Sales Currency Average rate by Quarterly.
+ 
  ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/d1a22433-2de0-41ab-a0d5-1b2f3e88e09c)<p>
   
- - A visual showing Sales Currency Avarage rate by Month.
+- Sales Currency Avarage rate by Month.
+   
    ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/42727f58-15bb-4cd3-990a-e9139b5fb32b)<p>
 
 - A dasboard for the above Visuals
+  
  ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/3b1b9777-9d2e-4687-8c7f-9a55d2f2a7c2)
 
 
