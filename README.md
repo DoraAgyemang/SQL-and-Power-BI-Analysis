@@ -61,26 +61,25 @@ IF([Average Quantity]<= 44, "Mid Quantity", "High Quantity"))
   ```
 -	Total Actual Cost for each Transaction Type.
   
-![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/ba72ccc6-285e-49ab-8afe-2016ba11e36b)
-
+![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/ba72ccc6-285e-49ab-8afe-2016ba11e36b)<p>
 
  A Dashboard was created for the above analysis
  
-![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/67b1072e-fb2b-458d-80da-eb110d9df656) 
+![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/67b1072e-fb2b-458d-80da-eb110d9df656)<p>
 
 b)
 - Sales Currency Average rate by Year.
   
 ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/9bab41fb-ffbb-4c14-b2fe-7e51c14341b0)<p>
-From the Analysis, It is observed the year 2013 recorded the highest Sales Rate with £360,000 whereas 2011 had the lowest with £170,000
 
+From the Analysis, It is observed the year 2013 recorded the highest Sales Rate with £360,000 whereas 2011 had the lowest with £170,000
 
 - Sales Currency Average rate by Quarterly.
  
 ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/d1a22433-2de0-41ab-a0d5-1b2f3e88e09c)<p>
 The 1st Quarter is observed to have had the highest currency rate with £290,000. The lowest sales currency rate, £244,000, was recorded in the 3rd Quarter. Furthermore, the currency rate for the last two quarters were below the average, £279,363.
  
-- Sales Currency Avarage rate by Month.
+ - Sales Currency Avarage rate by Month.
    
 ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/42727f58-15bb-4cd3-990a-e9139b5fb32b)<p>
 Most of the monthly currency rates ere below the average, £100,723. from mid-year. However, the rates in the first 5 months were higher than the average. With £102,950, May recorded the highest rate whilst June was observed to have had the lowest, £75,691.
@@ -88,6 +87,7 @@ Most of the monthly currency rates ere below the average, £100,723. from mid-ye
 - A dasboard for the above Visuals
   
  ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/3b1b9777-9d2e-4687-8c7f-9a55d2f2a7c2)<p>
+
 In the AdventureWorks2014 database, the transaction types P, S, and W are related to the SalesOrderHeader table and represent the following:
 
 - **P**: Purchase Order
