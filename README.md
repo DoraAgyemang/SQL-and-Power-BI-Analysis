@@ -48,7 +48,7 @@ https://1drv.ms/u/s!AiZu-urEabOdgYIlFcCGIxckz7l6Mg?e=uwNFy0
 Exploratory data analaysis (EDA) entails delving into our tables and creating visuals to analyse the data to answer questions such as what is the:
 a)
 - Actual Cost for each Transaction Type on a month-to-month?
-  ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/39b0da0b-75c1-4e07-b890-bd7f0cac7b9f)<p>
+ ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/8cc0c842-a63d-4fa2-bb2d-474ee3bf4194)<p>
   From the above visual it can be seen that the month of March had the higest Actual Cost and June with the lowest Actual cost
 
 - Average Quantity for every month? Group into 3 groups namely High Quantity, Mid Quantity, and Low Quantity.
