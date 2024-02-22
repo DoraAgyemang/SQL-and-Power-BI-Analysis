@@ -68,24 +68,25 @@ AverageQuantityGroup = IF([Average Quantity]<= 30, "Low Quantity", IF([Average Q
 ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/67b1072e-fb2b-458d-80da-eb110d9df656)<p>
 
 b)
-- Sales Currency Average rate by Year.
+- Sales Currency Average rate by Year.<p>
   
-![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/9bab41fb-ffbb-4c14-b2fe-7e51c14341b0)<p>
+![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/1872d9db-4f41-49b1-866f-47547079d6ea)<p>
 
 From the Analysis, It is observed the year 2013 recorded the highest Sales Rate with £360,000 whereas 2011 had the lowest with £170,000
 
-- Sales Currency Average rate by Quarterly.
+- Sales Currency Average rate by Quarterly.<p>
  
-![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/d1a22433-2de0-41ab-a0d5-1b2f3e88e09c)<p>
+![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/6dab2570-68c5-4496-9c78-1097596fe65f)<p>
 
 The 1st Quarter is observed to have had the highest currency rate with £290,000. The lowest sales currency rate, £244,000, was recorded in the 3rd Quarter. Furthermore, the currency rate for the last two quarters were below the average, £279,363.
  
-- Sales Currency Avarage rate by Month.
-![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/42727f58-15bb-4cd3-990a-e9139b5fb32b)<p>
+- Sales Currency Avarage rate by Month.<p>
+![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/4b34c751-efac-480b-aa36-70363dab7edd)
+<p>
 
 Most of the monthly currency rates ere below the average, £100,723. from mid-year. However, the rates in the first 5 months were higher than the average. With £102,950, May recorded the highest rate whilst June was observed to have had the lowest, £75,691.
 
-- A dasboard for the above Visuals
+- A dasboard for the above Visuals<p>
   
  ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/3b1b9777-9d2e-4687-8c7f-9a55d2f2a7c2)<p>
 
