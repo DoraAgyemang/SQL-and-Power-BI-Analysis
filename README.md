@@ -50,10 +50,11 @@ a)
   ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/39b0da0b-75c1-4e07-b890-bd7f0cac7b9f)<p>
   From the above visual it can be seen that the month of March had the higest Actual Cost and June with the lowest Actual cost
 -	A table showing Category of Average Quantity into 3 groups namely High Quantity, Mid Quantity, and Low Quantity.
-  ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/4b8faeae-b3ec-482a-accf-c788f336a87d)
+  ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/794b9434-e19c-402c-9f1d-eeddb4a260d3)
+
 
 -	Total Actual Cost for each Transaction Type.
-  ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/364b9bc8-540d-4862-96f3-c8b38fc2c8e7)
+ ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/62dc1154-6d4e-40fd-b5fa-942fac636e96)
 
  A Dashboard was created for the above analysis
 
