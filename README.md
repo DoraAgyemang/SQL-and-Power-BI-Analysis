@@ -54,17 +54,17 @@ a)
 - Average Quantity for every month? Group into 3 groups namely High Quantity, Mid Quantity, and Low Quantity.
   ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/794b9434-e19c-402c-9f1d-eeddb4a260d3)<p>
 In the above visuals, you could see the Average quantity by month was grouped into AverageQuantity group to show the trends in the monthly average. A new measure was used to group  the Average into Average Quantity group Using the below querry.
- 
-  ```
-AverageQuantityGroup = IF([Average Quantity]<= 30, "Low Quantity",
-IF([Average Quantity]<= 44, "Mid Quantity", "High Quantity"))
-  ```
--	Total Actual Cost for each Transaction Type.
+ ```
+AverageQuantityGroup = IF([Average Quantity]<= 30, "Low Quantity", IF([Average Quantity]<= 44, "Mid Quantity", "High Quantity"))
+```
+- Total Actual Cost for each Transaction Type.<p>
   
+
 ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/ccb98941-12d5-4576-a47c-77b775f693c2)<p>
 
- A Dashboard was created for the above analysis
+ A Dashboard was created for the above analysis<p>
  
+
 ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/67b1072e-fb2b-458d-80da-eb110d9df656)<p>
 
 b)
