@@ -61,11 +61,12 @@ IF([Average Quantity]<= 44, "Mid Quantity", "High Quantity"))
   ```
 -	Total Actual Cost for each Transaction Type.
   
- ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/62dc1154-6d4e-40fd-b5fa-942fac636e96)
+![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/ba72ccc6-285e-49ab-8afe-2016ba11e36b)
+
 
  A Dashboard was created for the above analysis
  
-![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/67b1072e-fb2b-458d-80da-eb110d9df656)<p> 
+![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/67b1072e-fb2b-458d-80da-eb110d9df656) 
 
 b)
 - Sales Currency Average rate by Year.
