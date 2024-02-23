@@ -96,7 +96,8 @@ Most of the monthly currency rates ere below the average, £100,723. from mid-ye
   
  ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/3b1b9777-9d2e-4687-8c7f-9a55d2f2a7c2)<p>
 
-
+### Conclusion
+In conclusion the Visuals created are interrelated and used for organizational purposes. These are the necessary analysis from the data. however different analysis csn be derive from the data to serve different purposes.
 
 
 
