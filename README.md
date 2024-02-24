@@ -94,10 +94,10 @@ Most of the monthly currency rates ere below the average, £100,723. from mid-ye
 
 - A dasboard for the above Visuals<p>
   
- ![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/3b1b9777-9d2e-4687-8c7f-9a55d2f2a7c2)<p>
+![image](https://github.com/MYZDEE/SQL-and-Power-BI-Analysis/assets/128803445/d4d38122-931b-46ef-b5ae-8b2f45d58a8f)<p>
 
 ### Conclusion
-In conclusion the Visuals created are analysis to find out the products with the highest sales within the month, the total prices of the products, Average cost of the products ect. These are the necessary analysis from the data. However, these are not the aonly analysis that can be done with the data available. 
+In conclusion the Visuals created are analysis to find out the products with the highest sales within the month, the total prices of the products, Average cost of the products ect. These are the necessary analysis from the data. However, these are not the only analysis that can be derived from the data available. 
 
 
 
